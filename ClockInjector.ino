@@ -51,11 +51,13 @@
   Stop and Continue messages are ignored.
 */
 
+// Configure your target channel here!
+#define CHANNEL 1
+
 #define KNOB1 0
 #define KNOB2 1
 #define STAT1 7
 #define STAT2 6
-#define CHANNEL 1
 #define BUTTON1 2
 #define BUTTON2 3
 #define LED_PULSE_DURATION 1
